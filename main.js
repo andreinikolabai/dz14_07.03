@@ -78,4 +78,3 @@ else {
 
 alert(`${N2} - ${res1}`);
 console.log(`${N2} - ${res1}`);
-
